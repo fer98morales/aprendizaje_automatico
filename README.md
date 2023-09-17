@@ -12,6 +12,6 @@ El repositorio incluirá las siguientes carpetas:
   
 
 - **Proyectos:** Contendrá los proyectos asignados en la clase.
-- 
+
 
 - **Recursos:** Contendrá recursos útiles para la clase, como ejemplos de código, documentos y enlaces a sitios web relevantes.
