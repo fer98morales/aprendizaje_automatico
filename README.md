@@ -11,8 +11,10 @@ El repositorio incluirá las siguientes carpetas:
     - Tarea 1
         * [Regresion Lineal](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea%201/Tarea0_regresion_lineal.ipynb)
         * [Conjunto de Datos](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea%201/Tarea01_dataset.ipynb)
-        * [CSV Accidentes viales](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea%201/incidentesviales_noviembre22.csv)
-        * [CSV Datos metereologicos](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea%201/open-meteo-25.70N100.30W516m.csv)
+        * [CSV Accidentes viales](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Datos/incidentesviales_noviembre22.csv)
+        * [CSV Datos metereologicos](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Datos/datos_meteorologicos)
+    
+    - [Tarea 2](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea2/Tarea2.ipynb)
 
 - **Proyectos:** Contendrá los proyectos asignados en la clase.
 
