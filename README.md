@@ -16,6 +16,10 @@ El repositorio incluirá las siguientes carpetas:
     
     - [Tarea 2](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea2/Tarea2.ipynb)
 
+    - Tarea 3
+        * [Medidas de tendencia central](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea3/Medidas_TC.ipynb)
+        * [Tarea 3](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea3/Tarea3.ipynb)
+
 - **Proyectos:** Contendrá los proyectos asignados en la clase.
 
 
