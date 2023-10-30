@@ -28,6 +28,11 @@ El repositorio incluirá las siguientes carpetas:
         * [Artículo en latex]
         * [Artículo en PDF]
 
+    - Tarea 6 (Aun no terminada)
+        * [Tarea 6](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Tarea5/Tarea6.ipynb)
+        * [Artículo en latex]
+        * [Artículo en PDF]
+
 - **Proyectos:** Contendrá los proyectos asignados en la clase.
 
 
