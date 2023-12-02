@@ -34,6 +34,6 @@ El repositorio incluirá las siguientes carpetas:
         * [Artículo en PDF]
 
 - **Proyectos:** Contendrá los proyectos asignados en la clase.
-
+    - [Articulo final](https://github.com/fer98morales/aprendizaje_automatico/blob/main/Tareas/Proyecto/Accidentes Urbanos.ipynb)
 
 - **Recursos:** Contendrá recursos útiles para la clase, como ejemplos de código, documentos y enlaces a sitios web relevantes.
